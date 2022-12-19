@@ -5,7 +5,7 @@ A simple NodeJS program that tries to convert any string into a combination of c
 ***This is a NodeJS script, meaning you need NodeJS installed to run this file in your Command Prompt.***
 1. Download the most recent version
 2. Open your command line tool of choice in the directory of the file
-3. With NodeJS run this command: Node elementifier.js MyString
+3. With NodeJS run this command: `Node elementifier.js MyString`
 (Replace 'MyString' with the string you wish to convert!)
 
 ## **How it was made**
